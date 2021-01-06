@@ -2,7 +2,7 @@
 
 ### Who am I? 🤔
 
-I am a software developer in the making. I am currently majoring in Computer Programming and Applications, with a minor in Biolgy, at Florida State University. I am also teaching myself the fundamental and technical skills necessary fo software development.
+I am a software developer in the making. I am currently majoring in Computer Programming and Applications, with a minor in Biolgy, at Florida State University. I am also teaching myself the fundamental and technical skills necessary for software development.
 
 ### Portfolio 📁
 
