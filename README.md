@@ -1,9 +1,8 @@
 # Welcome to my GitHub 👋
-## This page is a showcase of all the projects I've worked on and the commits I've made.
 
 ### Who am I? 🤔
 
-I am a software developer in the making. I am currently majoring in Computer Programming and Applications with a minor in Biolgy at Florida State University. I am also teaching myself the the fundamental and technical skills necessary fo software development.
+I am a software developer in the making. I am currently majoring in Computer Programming and Applications, with a minor in Biolgy, at Florida State University. I am also teaching myself the fundamental and technical skills necessary fo software development.
 
 ### Portfolio 📁
 
