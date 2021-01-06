@@ -1,10 +1,11 @@
 # Welcome to my GitHub 👋
+## This page is a showcase of all the projects I've worked on and the commits I've made.
 
-## Who am I? 🤔
+### Who am I? 🤔
 
 I am a software developer in the making. I am currently majoring in Computer Programming and Applications with a minor in Biolgy at Florida State University. I am also teaching myself the the fundamental and technical skills necessary fo software development.
 
-## Portfolio 📁
+### Portfolio 📁
 
 You can find most of my projects here on my GitHub. To view the real thing check the README for a link. You can also access a prettier version of my portfolio and learn more about me via this link: vishaun.dev
 
