@@ -6,7 +6,7 @@ I am a software developer in the making. I am currently majoring in Computer Pro
 
 ### Portfolio 📁
 
-You can find most of my projects here on my GitHub. To view the real thing check the README for a link. 
+You can find most of my projects here on my GitHub. To view the real thing check the README for a link. Some projects are not hosted yet. I am working on mastering how to host web applications. I am also working on my personal site, which will be up soon and can be found at vishaun.dev
 <!--
 **vishaunj/vishaunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
