@@ -2,7 +2,7 @@
 
 ### Who am I? 🤔
 
-I am a software engineer in the making. I am currently majoring in Digital Humanities, with a minor in Biology and History, at Florida State University. I am also teaching myself the fundamental and technical skills necessary for software engineering.
+I am a senior at Florida State University majoring in Humanities, with a minor in Biology. I am a self-taught web developer with a passion for design, innovation, and analytics.
 
 ### Portfolio 📁
 
