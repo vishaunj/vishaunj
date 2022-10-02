@@ -2,7 +2,7 @@
 
 ### Who am I? 🤔
 
-I am a senior at Florida State University majoring in Humanities, with a minor in Biology. I am a self-taught web developer with a passion for design, innovation, and analytics.
+I am a senior at Florida State University majoring in Humanities. I am a self-taught web developer with a passion for design, innovation, and analytics.
 
 ### Portfolio 📁
 
