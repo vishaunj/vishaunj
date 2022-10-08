@@ -6,7 +6,12 @@ I am a self-taught software developer with a passion for design, innovation, and
 
 ### Portfolio 📁
 
-You can find most of my projects here on my GitHub. To view the real thing check the README for a link. Some projects are not hosted yet. I am working on mastering how to host web applications. I am also working on my personal site, which will be up soon and can be found at vishaun.dev
+You can find most of my projects here on my GitHub. Check the README for an overview of the project and a link to the web based projects. Some projects are not hosted yet. I am working on mastering how to host web applications. 
+
+### How to reach me 📫:
+
+LinkedIn - linkedin.com/vishaunjones
+Email - jvishaun@gmail.com
 <!--
 **vishaunj/vishaunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
