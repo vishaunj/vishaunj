@@ -10,8 +10,8 @@ You can find most of my projects here on my GitHub. Check the README for an over
 
 ### How to reach me 📫:
 
-LinkedIn - linkedin.com/vishaunjones
-Email - jvishaun@gmail.com
+LinkedIn - https://www.linkedin.com/in/vishaunjones/
+<br />Email - jvishaun@gmail.com
 <!--
 **vishaunj/vishaunj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
