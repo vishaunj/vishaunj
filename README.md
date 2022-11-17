@@ -1,10 +1,10 @@
-# Welcome to my GitHub 👋
+# 👋 Welcome to my GitHub 
 
-### Who am I? 🤔
+### 🤔 Who am I? 
 
 I am a self-taught software developer with a passion for design, innovation, and analytics.
 
-### Portfolio 📁
+### 📁 Portfolio 
 
 You can find most of my projects here on my GitHub. Check the README for an overview of the project and a link to the web based projects. 
 
