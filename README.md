@@ -17,7 +17,7 @@ Below are a few of my hosted projects:
 At the moment I am working on an application that will update a Spotify playlist whenever a Youtube playlist is updated. This will allow users to mirror their playlist on both platforms without the hastle of going from one to the next to search for a song.
 
 
-### How to reach me 📫:
+### 📫 How to reach me:
 
 LinkedIn - https://www.linkedin.com/in/vishaunjones/
 <br />Email - jvishaun@gmail.com
