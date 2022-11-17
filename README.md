@@ -6,7 +6,18 @@ I am a self-taught software developer with a passion for design, innovation, and
 
 ### Portfolio 📁
 
-You can find most of my projects here on my GitHub. Check the README for an overview of the project and a link to the web based projects. Some projects are not hosted yet. I am working on mastering how to host web applications. 
+You can find most of my projects here on my GitHub. Check the README for an overview of the project and a link to the web based projects. 
+
+Below are a few of my hosted projects:
+* [Daily Quotes](https://dailyquotes-production.up.railway.app/)
+⋅⋅⋅ [Link to respository](https://github.com/vishaunj/DailyQuotes)
+* [Doctor Patient Portal Mock Landing Page](https://vishaunj.github.io/mocklandingpage/)
+⋅⋅⋅[Link to repository](https://github.com/vishaunj/mocklandingpage)
+
+### 🔭 What I'm currently working on
+
+At the moment I am working on an application that will update a Spotify playlist whenever a Youtube playlist is updated. This will allow users to mirror their playlist on both platforms without the hastle of going from one to the next to search for a song.
+
 
 ### How to reach me 📫:
 
