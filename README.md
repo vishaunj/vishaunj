@@ -10,9 +10,9 @@ You can find most of my projects here on my GitHub. Check the README for an over
 
 Below are a few of my hosted projects:
 * [Daily Quotes](https://dailyquotes-production.up.railway.app/)
-⋅⋅⋅ [Link to respository](https://github.com/vishaunj/DailyQuotes)
+   [Link to respository](https://github.com/vishaunj/DailyQuotes)
 * [Doctor Patient Portal Mock Landing Page](https://vishaunj.github.io/mocklandingpage/)
-⋅⋅⋅[Link to repository](https://github.com/vishaunj/mocklandingpage)
+   [Link to repository](https://github.com/vishaunj/mocklandingpage)
 
 ### 🔭 What I'm currently working on
 
