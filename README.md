@@ -18,6 +18,8 @@ My case studies live at **[vishaunj.github.io](https://vishaunj.github.io)**. Ea
   Turned online directories into structured contact lists, including 500+ qualified leads.
 * 🛍️ [Opening and running a retail boutique from the ground up](https://vishaunj.github.io/case-studies/angelaz-kloset/)<br>
   Co-founding a boutique in Jamaica, from registration and point of sale to customs runs and staffing.
+* 🌿 [A website for a psychiatric and wellness practice](https://vishaunj.github.io/projects/renewed-path-website/)<br>
+  An eight-page Squarespace site I designed and launched for a client, with a 30-second video tour of the live site.
 * 📖 [Community Service Awards 2026 magazine](https://vishaunj.github.io/projects/free-spirit-magazine/)<br>
   A 36-page magazine I designed for a nonprofit's 20th anniversary ceremony. You can flip through it on screen.
 
@@ -27,7 +29,7 @@ I'm building **SERVE Beauty Finds**, a beauty services discovery app for Kingsto
 
 ### 🛠️ Tools I use
 
-Google Sheets · Google Apps Script · Python · Playwright · JavaScript · Chrome Extensions · Salesforce · ZoomInfo · Shopify POS · Canva
+Google Sheets · Google Apps Script · Python · Playwright · JavaScript · Chrome Extensions · Salesforce · ZoomInfo · Squarespace · Shopify POS · Canva
 
 ### 🌱 Earlier coding projects
 
